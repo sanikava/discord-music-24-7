@@ -60,3 +60,5 @@ This bot is designed to work only on one server at a time. Inviting your bot to 
 ## Author
 
 This bot was made by [moonstar-x](https://github.com/moonstar-x) with contributions from [zackradisic](https://github.com/zackradisic) (Soundcloud support).
+
+[![Run on Repl.it](https://repl.it/badge/github/moonstar-x/discord-music-24-7)](https://repl.it/github/moonstar-x/discord-music-24-7)
